@@ -17,7 +17,6 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
 
 <p align="center">
   <b>Examples of two cell migration modes</b><br>
-  <br><br>
   <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
   <br><br>
   <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
