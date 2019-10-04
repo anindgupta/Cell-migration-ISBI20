@@ -15,13 +15,18 @@ Additionally, bayesian predicitons can lead to a more informed decision, and the
 of prediction can be improved.
 Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation. 
 
-<h6>Examples of two cells </h6>
 <p align="center">
+  <b>Examples of two cell migration modes</b><br>
   <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
+  <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
+    when treated with 10 mg/ml fibronectin concentration.</b><br>
+
+  <br><br>
 </p>
 
+
 ```
-High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode when treated with 10 mg/ml fibronectin concentration.
+
 ```   
 
 
