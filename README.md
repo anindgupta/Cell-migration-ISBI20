@@ -17,9 +17,8 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
 
 <h6>Examples of two cells </h6>
 <p align="center">
-  <img width="460" height="300" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
+  <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
 </p>
-
 
 ```
 High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode when treated with 10 mg/ml fibronectin concentration.
