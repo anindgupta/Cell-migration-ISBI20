@@ -17,7 +17,7 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
 
 <h6>Examples of two cells </h6>
 <p align="center">
-  ![mesenchymal migration](paperImages/cell_migration_movement.gif)
+  <img width="460" height="300" src="![mesenchymal migration prediction pipeline](paperImages/cell_migration_movement.gif)">
 </p>
 
 
