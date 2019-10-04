@@ -16,11 +16,15 @@ of prediction can be improved.
 Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation. 
 
 <h6>Examples of two cells </h6>
+<p align="center">
+  <img width="460" height="300" src=![mesenchymal migration](paperImages/cell_migration_movement.gif)>
+</p>
+
 
 ```
-Tracking of multiple cells in a high resolution time-lapse movie 
+High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode when treated with 10 mg/ml fibronectin concentration.
 ```   
-![mesenchymal migration](paperImages/cell_migration_movement.gif)
+
 
 
 ![mesenchymal migration prediction pipeline](paperImages/r4.png)
