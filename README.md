@@ -1,6 +1,6 @@
 # Cell Migration Mode Prediction for High Magnification Images 
 
-```
+<p align="justify">
 Cell migration is a complex and heterogeneous phenomenon consisting of many spatially and
 temporally regulated mechanisms. 
 A complete understanding of cell migration phenomenon is indeed crucial to derive an 
@@ -14,8 +14,8 @@ Weak supervision provides a simple, model-agnostic way to integrate the domain-e
 into a learning model. 
 Additionally, bayesian predicitons can lead to a more informed decision, and the quality 
 of prediction can be improved.
-Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation. 
-```
+Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation.</p>
+
 <p align="center">
   <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
   <br><br>
