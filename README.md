@@ -24,7 +24,7 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
 </p>
 
 <p align="center">
-   <img width="460" height="380" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/r4.png">
+   <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/r4.png">
   <br><br>
   <b>Cell Predition pipeline.</b><br>
 </p>
