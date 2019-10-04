@@ -42,6 +42,7 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
 
 <p align="center">
   <b>Table. 1: Quantitative results based on migration mode group per cell</b><br>
+  
    <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/table_image.png">
   <br><br>
 </p>
