@@ -16,10 +16,10 @@ of prediction can be improved.
 Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation. 
 
 ![mesenchymal migration](paperImages/cell_migration_movement.gif)
-![mesenchymal migration prediction pipeline](paperImages/r4.gif)
-![mesenchymal migration prediction visual results](paperImages/r2.gif)
+![mesenchymal migration prediction pipeline](paperImages/r4.png)
+![mesenchymal migration prediction visual results](paperImages/r2.png)
 ![mesenchymal migration prediction plot](paperImages/r1.png)
-![mesenchymal migration prediction box plot](paperImages/r3.gif)
+![mesenchymal migration prediction box plot](paperImages/r3.png)
 ## Project
 [Deciphering Cancer Cell Migration by Systems Microscopy](https://sysmic.ki.se) 
 
