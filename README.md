@@ -1,4 +1,4 @@
-# Weakly-spervised mesenchymal cell migration modes prediction %in confocal microscopy images using bayesian deep learning
+# Weakly-spervised mesenchymal cell migration modes prediction using bayesian deep learning
 
 <p align="justify">
 Cell migration is a complex and heterogeneous phenomenon consisting of many spatially and
