@@ -16,10 +16,9 @@ of prediction can be improved.
 Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation. 
 
 <p align="center">
-  <b>Examples of two cell migration modes</b><br>
   <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
   <br><br>
-  <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
+  <b>High-resolution confocal images of a two example cell during migration in the Discontinuous and Continuous mode 
     when treated with 10 mg/ml fibronectin concentration.</b><br>
 </p>
 
@@ -42,7 +41,7 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
 </p>
 
 <p align="center">
-   <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/r3.png">
+   <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/table_image.png">
   <br><br>
   <b>mesenchymal migration prediction box plot.</b><br>
 </p>
