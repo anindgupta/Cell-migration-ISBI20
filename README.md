@@ -15,7 +15,18 @@ Additionally, bayesian predicitons can lead to a more informed decision, and the
 of prediction can be improved.
 Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation. 
 
+\
+<h6>Examples of two cells</h6>\
+\
+```\
+![mesenchymal migration prediction pipeline](paperImages/r4.png)
+```\
+
+
+## Examples of two cells   
 ![mesenchymal migration](paperImages/cell_migration_movement.gif)
+
+
 ![mesenchymal migration prediction pipeline](paperImages/r4.png)
 ![mesenchymal migration prediction visual results](paperImages/r2.png)
 ![mesenchymal migration prediction plot](paperImages/r1.png)
