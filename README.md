@@ -1,4 +1,4 @@
-# Cell Migration Mode Prediction for High Magnification Images [Deciphering Cancer Cell Migration by Systems Microscopy](https://sysmic.ki.se) 
+# Cell Migration Mode Prediction for High Magnification Images 
 
 Cell migration is a complex and heterogeneous phenomenon consisting of many spatially and
 temporally regulated mechanisms. 
@@ -15,6 +15,8 @@ Additionally, bayesian predicitons can lead to a more informed decision, and the
 of prediction can be improved.
 Currently, this study employs a CNN regression model for predicting (or classifying) the probability of each cell observation. This package provides functionalities:
 
+## Project
+[Deciphering Cancer Cell Migration by Systems Microscopy](https://sysmic.ki.se) 
 
 
 ## Contributing
