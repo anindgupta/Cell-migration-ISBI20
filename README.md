@@ -30,30 +30,24 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
 </p>
 
 <p align="center">
-  <b>Examples of two cell migration modes</b><br>
-  <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
+   <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/r2.png">
   <br><br>
-  <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
-    when treated with 10 mg/ml fibronectin concentration.</b><br>
+  <b>Mesenchymal migration prediction visual results.</b><br>
 </p>
 
 <p align="center">
-  <b>Examples of two cell migration modes</b><br>
-  <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
+   <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/r1.png">
   <br><br>
-  <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
-    when treated with 10 mg/ml fibronectin concentration.</b><br>
+  <b>mesenchymal migration prediction plot.</b><br>
 </p>
-```
 
-```   
+<p align="center">
+   <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/r3.png">
+  <br><br>
+  <b>mesenchymal migration prediction box plot.</b><br>
+</p>
 
 
-
-
-![mesenchymal migration prediction visual results](paperImages/r2.png)
-![mesenchymal migration prediction plot](paperImages/r1.png)
-![mesenchymal migration prediction box plot](paperImages/r3.png)
 ## Project
 [Deciphering Cancer Cell Migration by Systems Microscopy](https://sysmic.ki.se) 
 
