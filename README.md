@@ -13,7 +13,9 @@ Weak supervision provides a simple, model-agnostic way to integrate the domain-e
 into a learning model. 
 Additionally, bayesian predicitons can lead to a more informed decision, and the quality 
 of prediction can be improved.
-Currently, this study employs a CNN regression model for predicting (or classifying) the probability of each cell observation. This package provides functionalities:
+Currently, this study employs a CNN regression model for predicting (or classifying) the probability of each cell observation. 
+
+![Farmers Market Finder Demo](paperImages/cell_migration_movement.gif)
 
 ## Project
 [Deciphering Cancer Cell Migration by Systems Microscopy](https://sysmic.ki.se) 
