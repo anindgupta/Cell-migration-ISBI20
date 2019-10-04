@@ -1,20 +1,8 @@
 # Weakly-spervised mesenchymal cell migration modes prediction using bayesian deep learning
 
 <p align="justify">
-Cell migration is a complex and heterogeneous phenomenon consisting of many spatially and
-temporally regulated mechanisms. 
-A complete understanding of cell migration phenomenon is indeed crucial to derive an 
-adequate quantification for single cell-based analysis. 
-However, the spatiotemporal behavior of dynamic cells is often complex and challenging for 
-manual classification and analysis.\,Automatized algorithms are thus highly 
-desired to facilitate mesenchymal migration sub-modalities prediction. 
-Supervised deep learning techniques have shown promising outcomes in microscopy image 
-analysis. However, their implication is confided by the amount of carefully annotated data.
-Weak supervision provides a simple, model-agnostic way to integrate the domain-expertise   
-into a learning model. 
-Additionally, bayesian predicitons can lead to a more informed decision, and the quality 
-of prediction can be improved.
-Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation.</p>
+Cell migration is a complex and heterogeneous phenomenon consisting of many spatially and temporally regulated mechanisms. A complete understanding of cell migration phenomenon is indeed crucial to derive an adequate quantification for single cell-based analysis. However, the spatiotemporal behavior of dynamic cells is often complex and challenging for manual classification and analysis. Automatized algorithms are thus highly desired to facilitate mesenchymal migration sub-modalities prediction. Supervised deep learning techniques have shown promising outcomes in microscopy image analysis. However, their implication is confided by the amount of carefully annotated data. Weak supervision provides a simple, model-agnostic way to integrate the domain-expertise into a learning model. Additionally, bayesian predicitons can lead to a more informed decision, and the quality of prediction can be improved. Currently, this study employs a Bayesian CNN regression model for predicting (or classifying) the probability of each cell observation.
+</p>
 
 <p align="center">
   <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
