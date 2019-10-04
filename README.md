@@ -23,14 +23,35 @@ Currently, this study employs a Bayesian CNN regression model for predicting (or
     when treated with 10 mg/ml fibronectin concentration.</b><br>
 </p>
 
+<p align="center">
+   <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
+  <br><br>
+  <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
+    when treated with 10 mg/ml fibronectin concentration.</b><br>
+</p>
 
+<p align="center">
+  <b>Examples of two cell migration modes</b><br>
+  <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
+  <br><br>
+  <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
+    when treated with 10 mg/ml fibronectin concentration.</b><br>
+</p>
+
+<p align="center">
+  <b>Examples of two cell migration modes</b><br>
+  <img width="512" height="512" src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/cell_migration_movement.gif">
+  <br><br>
+  <b>High-resolution confocal images of a two cell during migration in the Discontinuous and Continuous mode 
+    when treated with 10 mg/ml fibronectin concentration.</b><br>
+</p>
 ```
 
 ```   
 
 
 
-![mesenchymal migration prediction pipeline](paperImages/r4.png)
+
 ![mesenchymal migration prediction visual results](paperImages/r2.png)
 ![mesenchymal migration prediction plot](paperImages/r1.png)
 ![mesenchymal migration prediction box plot](paperImages/r3.png)
