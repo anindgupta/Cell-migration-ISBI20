@@ -34,14 +34,6 @@ Cell migration is a complex and heterogeneous phenomenon consisting of many spat
   <b>mesenchymal migration prediction plot.</b><br>
 </p>
 
-<p align="center">
-  <b>Table. 1: Quantitative results based on cell-wise migration mode group.</b><br>
-  
-   <img src="https://github.com/anindgupta/isbi2020/blob/master/paperImages/table_image.png">
-  <br><br>
-</p>
-
-
 ## Project
 [Deciphering Cancer Cell Migration by Systems Microscopy](https://sysmic.ki.se) 
 
