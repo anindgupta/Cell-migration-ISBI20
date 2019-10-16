@@ -1,8 +1,7 @@
 # Weakly-spervised mesenchymal cell migration modes prediction using bayesian deep learning
 
 <p align="center">
-  <br><br>
-  <b># :star: Code will be relased soon :exclamation:</b><br>
+  <b>:star: Code will be relased soon :exclamation:</b><br>
 </p>
 
 
